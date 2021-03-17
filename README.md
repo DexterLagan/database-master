@@ -35,7 +35,7 @@ Here is the <b>Query Builder</b> window, used to generate queries visually :
 
 <p align="center"><img src="Screenshots/QueryBuilder.PNG"></p>
 
-FInally, the <b>Query Monitor</b> is an advanced tool which displays queries being executed on the server in real-time. The delay between list refreshes can be adjusted from 'Never' to 30 seconds. There are several fonctions available via context menus, such as 'Explain', which opens the selected query in the Query Tester window, and explains it, or 'Kill', which cancels the query thread - useful to kill queries taking too long.
+Finally, the <b>Query Monitor</b> is an advanced tool which displays queries being executed on the server in real-time. The delay between list refreshes can be adjusted from 'Never' to 30 seconds. There are several fonctions available via context menus, such as 'Explain', which opens the selected query in the Query Tester window, and explains it, or 'Kill', which cancels the query thread - useful to kill queries taking too long.
 
 <p align="center"><img src="Screenshots/QueryMonitor.PNG"></p>
 
