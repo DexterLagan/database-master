@@ -8,11 +8,11 @@ Several practical functions are hidden in the main menu, replicated in contextua
 
 <p align="center"><img src="Screenshots/Export-Options.PNG"></p>
 
-Here is the <b>configuration dialog</b>, where you input your database settings :
+Here is the <b>Configuration Dialog</b>, where you input your database settings :
 
 <p align="center"><img src="Screenshots/Settings.PNG"></p>
 
-One can specify which table prefixes to ignore, to hide them from the left-hand table list :
+On the <b>Preferences Dialog</b>, one can specify which table prefixes to ignore to hide them from the left-hand table list :
 
 <p align="center"><img src="Screenshots/Preferences.PNG"></p>
 
