@@ -19,7 +19,7 @@ This is the Query Tester window, that let you input queries and execute them. Th
 
 <p align="center"><img src="Screenshots/QueryTester.PNG"></p>
 
-The same window sports 'Explain' and 'Explain Advanced' buttons, which displays information about a query. Useful to troubleshoot and tune query performance :
+The same window sports 'Explain' and 'Extended Explain' buttons, which displays information about a query. Useful to troubleshoot and tune query performance :
 
 <p align="center"><img src="Screenshots/Explain.PNG"></p>
 
