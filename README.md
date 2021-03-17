@@ -1,8 +1,15 @@
 # Database Master
+
 A small, simple tool to manage a MySQL database. Includes a decent query monitor with real-time explain and kill.
 This is the <b>Main Window</b> of the app :
 
 <p align="center"><img src="Screenshots/MainWindow.PNG"></p>
+
+# Downloads
+
+You can <b>Download</b> the latest release [HERE](/releases/latest).
+
+# Features
 
 Several practical functions are hidden in the main menu, replicated in contextual menus available in each list-box. '<b>Export to CSV</b>' and '<b>Export to Excel</b>' are self-explanatory. '<b>Export to Scribble</b>' is a more advanced feature which exports to Racket's Scribble documentation format. Scribble is a domain-specific language used to create application and language manuals. It outputs HTML and PDF through Latex.
 
