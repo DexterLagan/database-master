@@ -7,7 +7,7 @@ This is the <b>Main Window</b> of the app :
 
 # Downloads
 
-You can <b>download</b> the latest release for Windows and Linux [HERE](https://github.com/DexterLagan/database-master/releases/tag/v1.0.530).
+You can <b>download</b> the latest release for <b>Windows</b> and <b>Linux</b> [HERE](https://github.com/DexterLagan/database-master/releases/tag/v1.0.530).
 
 # Features
 
