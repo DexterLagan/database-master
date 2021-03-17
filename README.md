@@ -39,6 +39,15 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 
 <p align="center"><img src="Screenshots/QueryMonitor.PNG"></p>
 
+# Other Features
+
+- contextual export function to Excel and CSV;
+- automatic, context-aware column size adjustment (i.e. comment columns are larger);
+- fast, efficient binaries with small memory footprint;
+- query monitor long query log with executation time and 'explain' function;
+- optionnal side-panel list-view on the Main Window activated on double-click.
+
+
 Cheers,
 
 Dexter
