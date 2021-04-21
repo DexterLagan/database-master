@@ -47,7 +47,6 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 - query monitor long query log with executation time and 'explain' function;
 - optionnal side-panel list-view on the Main Window activated on double-click.
 
+## License
 
-Cheers,
-
-Dexter
+Database Master is free software; see [LICENSE](https://github.com/DexterLagan/database-master/blob/main/LICENSE) for more details.
