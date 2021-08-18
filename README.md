@@ -47,6 +47,16 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 - query monitor long query log with executation time and 'explain' function;
 - optionnal side-panel list-view on the Main Window activated on double-click.
 
+## Version History
+
+- v1.0 build 532
+  - improved query monitor;
+  - started work on support for multiple databases.
+- v1.0 build 531
+  - added support for hiding ghost processes in Query Monitor.
+- v1.0 build 530
+  - added support for automatic refresh to the Query Monitor.
+
 ## License
 
 Database Master is free software; see [LICENSE](https://github.com/DexterLagan/database-master/blob/main/LICENSE) for more details.
