@@ -49,6 +49,7 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 
 ## Version History
 - v1.0 build 534
+  - added new installer based on InnoSetup v6.x;
   - added full support for loading/saving an unlimited number of MySQL servers;
   - removed obsolete 'test' database server switch.
 - v1.0 build 533
