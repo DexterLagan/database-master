@@ -48,7 +48,10 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 - optionnal side-panel list-view on the Main Window activated on double-click.
 
 ## Version History
-- v1.0 build 533 (WIP)
+- v1.0 build 534
+  - added full support for loading/saving an unlimited number of MySQL servers;
+  - removed obsolete 'test' database server switch.
+- v1.0 build 533
   - preferences dialog is now known as 'Display Exclusions', updated main menu bar;
   - refactored window centering code and made it part of a common module.
 - v1.0 build 532
