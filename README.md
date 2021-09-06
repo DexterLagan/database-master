@@ -53,7 +53,8 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
   - added full support for loading/saving an unlimited number of MySQL servers;
   - removed obsolete 'test' database server switch;
   - added official support for Dark Mode;
-  - added support for Hi-DPi.
+  - added support for Hi-DPi;
+  - switched to Windows 64 bits as default platform.
 - v1.0 build 533
   - preferences dialog is now known as 'Display Exclusions', updated main menu bar;
   - refactored window centering code and made it part of a common module.
