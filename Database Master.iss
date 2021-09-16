@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Database Master"
-#define MyAppVersion "1.0.534"
+#define MyAppVersion "1.0.537"
 #define MyAppPublisher "Gluten Free Software"
 #define MyAppExeName "Database Master.exe"
 
