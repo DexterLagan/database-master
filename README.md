@@ -48,6 +48,8 @@ Finally, the <b>Query Monitor</b> is an advanced tool which displays queries bei
 - optionnal side-panel list-view on the Main Window activated on double-click.
 
 ## Version History
+- v1.0 build 537
+  - no longer displays an error when attempting to enter the name of a new server.
 - v1.0 build 536
   - added support for deleting servers in the configuration dialog.
 - v1.0 build 534
